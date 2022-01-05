@@ -1,0 +1,38 @@
+body {
+  background-color: linen;
+}
+
+h1, li {
+text-align: center;
+  color: gray;
+}
+
+li {
+  font-size: 20px
+}
+
+#soorten_pasta {
+    font-size: 50px
+}
+
+.pasta {
+color: orange
+}
+
+ol{
+  list-style-type: upper-roman;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ul li {
+  background: #cce5ff;
+  margin: 50px;
+}
