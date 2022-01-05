@@ -1,38 +1,41 @@
 body {
-  background-color: linen;
+  background-color: linnen;
 }
 
 h1, li {
 text-align: center;
-  color: gray;
+  color: black;
+  font-size: 40px
 }
+
 
 li {
   font-size: 20px
 }
 
 #soorten_pasta {
-    font-size: 50px
+text-align: center;
+    font-size: 30px
 }
 
 .pasta {
-color: orange
+color: black
 }
 
-ol{
+
+ol {
   list-style-type: upper-roman;
 }
 
-ul {
-  list-style-type: square;
-}
-
-ul {
-  background: #3399ff;
-  padding: 20px;
-}
-
-ul li {
-  background: #cce5ff;
-  margin: 50px;
+button {
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.6s;
+  cursor: pointer;
 }
